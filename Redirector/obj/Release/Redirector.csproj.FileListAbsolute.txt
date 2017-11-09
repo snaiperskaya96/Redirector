@@ -1,0 +1,9 @@
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\bin\Release\Redirector.exe.config
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\bin\Release\Redirector.exe
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\bin\Release\Redirector.pdb
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.Input.resources
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.Properties.Resources.resources
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.csproj.GenerateResource.Cache
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.exe
+c:\Users\Jury\Documents\Visual Studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.pdb
+C:\Users\Jury\documents\visual studio 2017\Projects\Redirector\Redirector\obj\Release\Redirector.csprojResolveAssemblyReference.cache

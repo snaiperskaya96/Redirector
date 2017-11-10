@@ -33,7 +33,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.ToText = new System.Windows.Forms.TextBox();
             this.AddButton = new System.Windows.Forms.Button();
-            this.CancelButton = new System.Windows.Forms.Button();
+            this.DeleteButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // FromText
@@ -82,13 +82,13 @@
             // 
             // CancelButton
             // 
-            this.CancelButton.Location = new System.Drawing.Point(13, 66);
-            this.CancelButton.Name = "CancelButton";
-            this.CancelButton.Size = new System.Drawing.Size(75, 23);
-            this.CancelButton.TabIndex = 5;
-            this.CancelButton.Text = "Cancel";
-            this.CancelButton.UseVisualStyleBackColor = true;
-            this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
+            this.DeleteButton.Location = new System.Drawing.Point(13, 66);
+            this.DeleteButton.Name = "CancelButton";
+            this.DeleteButton.Size = new System.Drawing.Size(75, 23);
+            this.DeleteButton.TabIndex = 5;
+            this.DeleteButton.Text = "Cancel";
+            this.DeleteButton.UseVisualStyleBackColor = true;
+            this.DeleteButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
             // Input
             // 
@@ -96,7 +96,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 101);
             this.ControlBox = false;
-            this.Controls.Add(this.CancelButton);
+            this.Controls.Add(this.DeleteButton);
             this.Controls.Add(this.AddButton);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.ToText);
@@ -117,6 +117,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox ToText;
         private System.Windows.Forms.Button AddButton;
-        private System.Windows.Forms.Button CancelButton;
+        private System.Windows.Forms.Button DeleteButton;
     }
 }

@@ -31,6 +31,13 @@ namespace Redirector
 
             this.Entries = Entries;
             UpdateEntriesMenu();
+
+            if (this.Entries.Count() == 0)
+            {
+                MenuItem EmptyItem = new MenuItem("No Redirections Available");
+                EmptyItem.Enabled = false;
+                EntriesMenu.MenuItems.Add(EmptyItem);
+            } 
         }
 
         private void Exit(object sender, EventArgs e)
